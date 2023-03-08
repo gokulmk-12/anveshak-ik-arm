@@ -7,6 +7,7 @@ Steps to Work with the Repo
 3) cd ../
 4) catkin_make
 5) roslaunch ik_pkg joy.launch
+
 In a new terminal after sourcing the workspace, 
 6) roslaunch ik_pkg ik_arm.launch
 
