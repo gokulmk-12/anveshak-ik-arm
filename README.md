@@ -9,5 +9,6 @@ Steps to Work with the Repo
 5) roslaunch ik_pkg joy.launch
 
 In a new terminal after sourcing the workspace, 
+
 6) roslaunch ik_pkg ik_arm.launch
 
